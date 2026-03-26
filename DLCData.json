@@ -91,14 +91,21 @@
     "imdb_url": "https://www.imdb.com/title/tt0032138"
   },
   {
-    "dlc_request": "DROP TABLE REQUESTS;",
-    "user_name": "harray_pottah",
-    "dlc_request_timestamp": "Thu, 26 Mar 2026 04:29:14 GMT"
-  },
-  {
     "dlc_request": "Battles without Honor and Humanity",
     "user_name": "CheerfulChipmunk",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 17:44:14 GMT",
     "imdb_url": "https://www.imdb.com/title/tt0070246"
+  },
+  {
+    "dlc_request": "triangle of sadness",
+    "user_name": "PizzaBiceps",
+    "dlc_request_timestamp": "Thu, 26 Mar 2026 20:58:19 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt7322224"
+  },
+  {
+    "dlc_request": "Bleeder(1999)",
+    "user_name": "menta1000",
+    "dlc_request_timestamp": "Thu, 26 Mar 2026 20:58:45 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0161292"
   }
 ]
