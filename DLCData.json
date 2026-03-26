@@ -94,5 +94,11 @@
     "dlc_request": "DROP TABLE REQUESTS;",
     "user_name": "harray_pottah",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 04:29:14 GMT"
+  },
+  {
+    "dlc_request": "Battles without Honor and Humanity",
+    "user_name": "CheerfulChipmunk",
+    "dlc_request_timestamp": "Thu, 26 Mar 2026 17:44:14 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0070246"
   }
 ]
