@@ -119,5 +119,19 @@
     "user_name": "forens_nikirk",
     "dlc_request_timestamp": "Mon, 30 Mar 2026 21:11:43 GMT",
     "imdb_url": "https://www.imdb.com/title/tt8289930"
+  },
+  {
+    "dlc_request": "held up 1999",
+    "user_name": "orange_bean",
+    "dlc_request_timestamp": "Thu, 02 Apr 2026 01:58:47 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0165831",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "the fifth element 1997",
+    "user_name": "heythere_chat",
+    "dlc_request_timestamp": "Thu, 02 Apr 2026 02:00:04 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0119116",
+    "has_played": "No"
   }
 ]
